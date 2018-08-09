@@ -1,20 +1,3 @@
-**OVERVIEW**
-=====
-This study tests the functionality of the Sparkfun VL6180 adn RFD77402 Time of Flight Sensors. Several scenarios were tested - in direct sunlight, in a dark room, etc. - in order to discover the limitations of each sensor.
-
-Data Sheet Specifications
----
-1.  *VL6180*
-    * 850 nm IR emitter
-    * Can measure up to 10 cm
-    * Independent of object reflectance
-    * -10°-60°C operating temperature
-    * -20°-70°C functional range
-2. *RFD77402*
-    * IR emitter
-    * 100mm to 2000mm measuring range
-    * -10°-60°C operating temperature
-
 **PRELIMINARY RESULTS**
 =====
 Inside
