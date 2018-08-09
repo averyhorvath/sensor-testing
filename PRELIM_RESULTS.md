@@ -1,7 +1,3 @@
-# sensor-testing
-Includes all non-confidential code that I worked on during my summer internship at Astrobotic
-
-
 **OVERVIEW**
 =====
 This study tests the functionality of the Sparkfun VL6180 adn RFD77402 Time of Flight Sensors. Several scenarios were tested - in direct sunlight, in a dark room, etc. - in order to discover the limitations of each sensor.
