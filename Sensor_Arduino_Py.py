@@ -41,7 +41,7 @@ def make_figure(distance, sensorSpecificData, SENSOR_TYPE):
     plt.text(0,minDist,"Standard Deviation = %s" % str(round(avdStd[0],1)),fontweight='bold',bbox={'facecolor':'grey', 'alpha':0.5, 'pad':10}) # put in bottom left
     plt.subplot(212)
     if SENSOR_TYPE == "RFD77402":
-        label = 'Confidence Level (0-2018)'
+        label = 'Confidence Level (0-2047)'
     if SENSOR_TYPE == "VL6180":
         label = 'Luminosity'
     plt.plot(sensorSpecificData,'+-', c = 'c',label = label)
