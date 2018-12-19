@@ -2,7 +2,7 @@
 
 **OVERVIEW**
 =====
-This study tests the functionality of the Sparkfun VL6180 adn RFD77402 Time of Flight Sensors. Several scenarios were tested - in direct sunlight, in a dark room, etc. - in order to discover the limitations of each sensor.
+This study tests the functionality of the Sparkfun VL6180 and RFD77402 Time of Flight Sensors. Several scenarios were tested - in direct sunlight, in a dark room, etc. - in order to discover the limitations of each sensor.
 
 Operating System: Mac OSx High Sierra Version 10.13.4
 Python 3.5.3
